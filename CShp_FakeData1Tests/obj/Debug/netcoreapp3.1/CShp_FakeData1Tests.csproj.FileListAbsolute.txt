@@ -1,0 +1,6 @@
+C:\Users\jully\Downloads\CShp_FakeData1\CShp_FakeData1\CShp_FakeData1Tests\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+C:\Users\jully\Downloads\CShp_FakeData1\CShp_FakeData1\CShp_FakeData1Tests\obj\Debug\netcoreapp3.1\CShp_FakeData1Tests.csproj.AssemblyReference.cache
+C:\Users\jully\Downloads\CShp_FakeData1\CShp_FakeData1\CShp_FakeData1Tests\obj\Debug\netcoreapp3.1\CShp_FakeData1Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jully\Downloads\CShp_FakeData1\CShp_FakeData1\CShp_FakeData1Tests\obj\Debug\netcoreapp3.1\CShp_FakeData1Tests.AssemblyInfoInputs.cache
+C:\Users\jully\Downloads\CShp_FakeData1\CShp_FakeData1\CShp_FakeData1Tests\obj\Debug\netcoreapp3.1\CShp_FakeData1Tests.AssemblyInfo.cs
+C:\Users\jully\Downloads\CShp_FakeData1\CShp_FakeData1\CShp_FakeData1Tests\obj\Debug\netcoreapp3.1\CShp_FakeData1Tests.csproj.CoreCompileInputs.cache
